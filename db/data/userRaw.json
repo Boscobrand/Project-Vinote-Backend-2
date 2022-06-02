@@ -1,0 +1,65 @@
+
+[
+
+    {
+        "name": "Tony Bosco",
+        "username": "Tony_B",
+        "email": "Tony.Bosco@boscobrand.com",
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+    },
+
+
+    {
+        "name": "Mckenzie Camacho",
+        "username": "McKenzie_C",
+        "email":"mckenziekylacamacho@gmail.com" ,
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+
+    },
+
+    {
+        "name": "Jessie Collado",
+        "username": "Jessie_C",
+        "email": "ilka.collado@gmail.com",
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+
+    },
+    {
+        "name": "Tsani Rhodes",
+        "username": "Tsani_R",
+        "email":"rhodestsani@gmail.com",
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+    },
+
+    {
+        "name": "David Magbee",
+        "username": "David_M",
+        "email": "david.magbee@generalassemb.ly",
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+    },
+
+    {
+        "name": "Angel Juarez",
+        "username":"Angel_J" ,
+        "email": "angel.juarez@generalassemb.ly",
+        "password": "Nan",
+        "avatar":  "TBD",
+        "LikedWines": []
+    }
+
+
+]
+
+
+
+
